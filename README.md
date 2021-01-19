@@ -8,4 +8,5 @@ PRO Tip: Once you generate the Karaoke MIDI with melody and lyrics, you can alwa
 ***
 
 Project Los Angeles
+
 Tegridy Code 2021
