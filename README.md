@@ -7,6 +7,11 @@ PRO Tip: Once you generate the Karaoke MIDI with melody and lyrics, you can alwa
 
 ***
 
+![Karaoke-MASTER](https://github.com/asigalov61/Karaoke-MASTER/raw/main/Karaoke-MASTER-Dataset-Word-Cloud-Sample.png?raw=true)
+
+
+***
+
 Project Los Angeles
 
 Tegridy Code 2021
